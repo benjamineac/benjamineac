@@ -1,0 +1,3 @@
+- Hi, I’m Ben Chamberlain
+- I’m currently enrolled in EDA, in Wellington NZ, learning JS & React
+- Contact: ben.albrecht.chamberlain@gmail.com
