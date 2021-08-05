@@ -1,3 +1,4 @@
 - Hi, I’m Ben Chamberlain
-- EDA Grad, in Wellington NZ, learning JS & React
+- Fullstack Web Developer, EDA Grad
+- Node.js, React, Redux, SQL, Python
 - Contact: ben.albrecht.chamberlain@gmail.com
