@@ -1,4 +1,3 @@
 - Hi, I’m Ben Chamberlain
-- Fullstack Web Developer, EDA Grad
-- Node.js, React, Redux, SQL, Python
+- Software Developer, EDA Grad
 - Contact: ben.albrecht.chamberlain@gmail.com
